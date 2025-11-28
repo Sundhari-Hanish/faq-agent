@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "What are the office working hours?", "answer": "Our office hours are 9:00 AM to 6:00 PM, Monday to Friday."},
+  {"id": 2, "question": "How do I apply for leave?", "answer": "Submit a leave request in the HR portal and get approval from your manager."},
+  {"id": 3, "question": "Who do I contact for IT support?", "answer": "Email support@company.com or call extension 1234 for IT support and more details."},
+  {"id": 4, "question": "How do I reset my password?", "answer": "Use the 'Forgot password' link on the login page to reset your password.And then Enter your new user_ID and password"},
+  {"id": 5, "question": "How do I access the company VPN?", "answer": "Install the company VPN client and use your corporate credentials; see the VPN guide in Knowledge Base."},
+  {"id": 6, "question": "What is the dress code?", "answer": "Business casual Monday to Thursday; casual on Fridays."},
+  {"id": 7, "question": "How do I apply for a business travel request?", "answer": "Fill the travel request form and get manager approval before booking."},
+  {"id": 8, "question": "What is the holiday policy?", "answer": "Public holidays are observed as per the company calendar; check the HR portal for specifics."},
+  {"id": 9, "question": "How do I update my bank details?", "answer": "Update your bank details in the payroll section of the HR portal."},
+  {"id": 10, "question": "Where can I find company policies?", "answer": "Company policies are available in the intranet under 'Policies'."},
+  {"id": 11, "question": "How do I report harassment?", "answer": "Contact HR or use the anonymous reporting form on the intranet."},
+  {"id": 12, "question": "Is remote work allowed?", "answer": "Remote work depends on team policy. Check with your manager."},
+  {"id": 13, "question": "How do I request equipment?", "answer": "Raise an equipment request ticket through IT service desk."},
+  {"id": 14, "question": "How do I access my payslip?", "answer": "Payslips are available in the payroll section of the HR portal."},
+  {"id": 15, "question": "What is the probation period?", "answer": "The standard probation period is 3 months unless specified otherwise."},
+  {"id": 16, "question": "Can I work flexible hours?", "answer": "Flexible hours can be arranged with manager approval and depending on role."},
+  {"id": 17, "question": "How do I update my profile picture?", "answer": "Go to your profile on the intranet and click 'Edit profile'."},
+  {"id": 18, "question": "How are performance reviews conducted?", "answer": "Performance reviews are conducted twice a year; your manager will share details."},
+  {"id": 19, "question": "How do I set up email on my phone?", "answer": "Follow the mobile email setup guide in the IT help center."},
+  {"id": 20, "question": "Who do I contact for payroll issues?", "answer": "Contact payroll@company.com for payroll-related queries."}
+]
