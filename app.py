@@ -24,7 +24,9 @@ def score_query(query, text):
 
 st.set_page_config(page_title="Support Assistant (FAQ Bot)", layout="centered")
 st.title("Support Assistant - FAQ Bot")
+
 st.write("Ask any question and I'll try to answer from the FAQ.")
+st.write("This support assistant helps employees quickly get answers to HR, IT, payroll, leave, policies, and general company-related questions. It saves time by giving instant help.")
 
 user_q = st.text_input("Your question:")
 
@@ -39,13 +41,14 @@ if st.button("Get Answer") and user_q.strip():
     if top_score == 0:
         st.warning("I couldn't find a close match in the FAQ. Try rephrasing your question.")
     else:
-        st.subheader("Best match from FAQ")
-        st.write("**Q:**", top_faq["question"])
-        st.write("**A:**", top_faq["answer"])
+        # Show only the answer (simplified)
+        st.subheader("Answer")
+        st.write(top_faq["answer"])
 
+        # Show other possible questions (optional)
         if len(scored) > 1 and scored[1][0] > 0:
             st.write("---")
-            st.write("Other possible matches:")
+            st.write("Other related questions you might have meant:")
             for s, f in scored[1:4]:
                 if s > 0:
                     st.write("- ", f["question"])
