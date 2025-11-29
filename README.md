@@ -50,7 +50,7 @@ Clean and simple UI where users can ask questions
    pip install -r requirements.txt
 4. Run the app
    streamlit run app.py
-5. 
+   
 
 **Then open:**
 http://localhost:8501
