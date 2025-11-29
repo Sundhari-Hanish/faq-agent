@@ -18,5 +18,406 @@
   {"id": 17, "question": "How do I update my profile picture?", "answer": "Go to your profile on the intranet and click 'Edit profile'."},
   {"id": 18, "question": "How are performance reviews conducted?", "answer": "Performance reviews are conducted twice a year; your manager will share details."},
   {"id": 19, "question": "How do I set up email on my phone?", "answer": "Follow the mobile email setup guide in the IT help center."},
-  {"id": 20, "question": "Who do I contact for payroll issues?", "answer": "Contact payroll@company.com for payroll-related queries."}
+  {"id": 20, "question": "Who do I contact for payroll issues?", "answer": "Contact payroll@company.com for payroll-related queries."},
+  {"id": 21,
+    "question": "hello",
+    "answer": "Hello! I am your Support Assistant. I help you find answers to common company-related questions from the FAQ list. Just ask me anything related to HR, IT, policies, or general work queries."
+  },
+  {
+    "id": 22,
+    "question": "hi",
+    "answer": "Hi there! I’m your FAQ Bot. You can ask me questions like leave policy, office timings, payroll help, IT support and more."
+  },
+  {
+    "id": 23,
+    "question": "hey",
+    "answer": "Hey! I can help you with any company-related questions. Try asking something like ‘How do I reset my password?’ or ‘What are the office hours?’"
+  },
+  {
+    "id": 24,
+    "question": "hii",
+    "answer": "Hello! I’m your support assistant bot. Ask me any question related to work, HR, policies or IT help."
+  },
+  {
+    "id": 25,
+    "question": "how are you",
+    "answer": "I’m doing great! Thank you for asking. I am here to assist you with company FAQs. Let me know how I can help you today."
+  },
+  {
+    "id": 26,
+    "question": "what can you do",
+    "answer": "I can help answer questions related to HR policies, office rules, IT support, payroll, holidays, and many other workplace FAQs. Try typing a question!"
+  },
+  {
+    "id": 27,
+    "question": "who are you",
+    "answer": "I am an FAQ Support Bot. My purpose is to help you quickly find answers from the company’s frequently asked questions list."
+  },
+  {
+    "id": 28,
+    "question": "what is your purpose",
+    "answer": "My purpose is to assist you by providing quick and accurate answers to common company questions such as leave, IT support, payroll, office hours, and policies."
+  },
+  {
+    "id": 29,
+    "question": "thank you",
+    "answer": "You're welcome! Let me know if you have any other questions."
+  },
+  {
+    "id": 30,
+    "question": "thanks",
+    "answer": "Happy to help! Feel free to ask anything else."
+  },
+    {
+    "id": 31,
+    "question": "good morning",
+    "answer": "Good morning! I’m your Support Assistant bot. How can I help you today?"
+  },
+  {
+    "id": 32,
+    "question": "good evening",
+    "answer": "Good evening! Let me know if you need help with any company-related questions."
+  },
+  {
+    "id": 33,
+    "question": "good afternoon",
+    "answer": "Good afternoon! I’m here to help with HR, IT, and general workplace questions."
+  },
+  {
+    "id": 34,
+    "question": "bye",
+    "answer": "Goodbye! Have a great day. Feel free to return if you need any help."
+  },
+  {
+    "id": 35,
+    "question": "see you",
+    "answer": "See you soon! I’ll be here whenever you need assistance."
+  },
+  {
+    "id": 36,
+    "question": "thank you so much",
+    "answer": "You’re welcome! I’m always here to help you with your questions."
+  },
+  {
+    "id": 37,
+    "question": "what is your name",
+    "answer": "I’m your Support Assistant FAQ Bot. I help you find quick answers to common questions."
+  },
+  {
+    "id": 38,
+    "question": "can you help me",
+    "answer": "Yes, absolutely! Ask me anything related to HR, IT support, office rules, payroll, or general company information."
+  },
+  {
+    "id": 39,
+    "question": "i need help",
+    "answer": "Sure! Tell me what you need help with. I can assist with FAQs related to leave, IT issues, payroll, and more."
+  },
+  {
+    "id": 40,
+    "question": "what should i do if i can't login",
+    "answer": "If you cannot log in, try using the 'Forgot Password' option or contact IT support at support@company.com."
+  },
+  {
+    "id": 41,
+    "question": "how do i change my password",
+    "answer": "Click on the 'Forgot Password' link on the login page and follow the instructions to set a new password."
+  },
+  {
+    "id": 42,
+    "question": "how do i connect to wifi",
+    "answer": "Go to your device's Wi-Fi settings and connect to the company network using your employee credentials."
+  },
+  {
+    "id": 43,
+    "question": "when is salary credited",
+    "answer": "Salary is usually credited on the last working day of every month. Contact payroll@company.com for more details."
+  },
+  {
+    "id": 44,
+    "question": "how many leaves do i get",
+    "answer": "Leave policies may vary. Check the HR portal under the 'Leave Section' for exact details."
+  },
+  {
+    "id": 45,
+    "question": "who is my manager",
+    "answer": "You can find your reporting manager's name in your employee profile section on the HR portal."
+  },
+  {
+    "id": 46,
+    "question": "where is the cafeteria",
+    "answer": "The cafeteria is located on the ground floor. Check the office map on the intranet for directions."
+  },
+  {
+    "id": 47,
+    "question": "where can i get my id card",
+    "answer": "You can collect or replace your ID card at the administration office."
+  },
+  {
+    "id": 48,
+    "question": "is lunch provided",
+    "answer": "Lunch availability depends on the office location. Check with administration or your HR team."
+  },
+  {
+    "id": 49,
+    "question": "how do i contact hr",
+    "answer": "You can email HR at hr@company.com or raise a ticket through the HR portal."
+  },
+  {
+    "id": 50,
+    "question": "how can i track my tasks",
+    "answer": "Most teams use a project management tool such as Jira or Trello. Check with your manager for the tool your team uses."
+  },
+    {
+    "id": 51,
+    "question": "why are you used",
+    "answer": "I am used to help employees quickly find answers to common company questions without waiting for HR or IT response. I save your time by giving instant support."
+  },
+  {
+    "id": 52,
+    "question": "what is your job",
+    "answer": "My job is to assist you by providing quick and accurate answers to frequently asked questions related to HR, IT, payroll, policies and general office information."
+  },
+  {
+    "id": 53,
+    "question": "why should i use you",
+    "answer": "You should use me because I can give instant answers to common workplace questions without needing to contact HR or IT. I’m fast, available 24/7, and easy to use."
+  },
+  {
+    "id": 54,
+    "question": "what are your benefits",
+    "answer": "I help save time by giving quick answers, reducing confusion, and guiding you to the right information. I'm available anytime and can assist without you waiting for support staff."
+  },
+  {
+    "id": 55,
+    "question": "i want help",
+    "answer": "Sure! Tell me what you need help with. I can assist with issues related to login, password reset, leave, salary, HR policies, or IT support."
+  },
+  {
+    "id": 56,
+    "question": "i need help updating my password",
+    "answer": "If you cannot update your password, try using the 'Forgot Password' option on the login page. If the issue continues, IT support can manually reset it for you."
+  },
+  {
+    "id": 57,
+    "question": "i am not able to update my password",
+    "answer": "Make sure your new password meets the required rules (minimum length, uppercase, symbols). If it still fails, clear your browser cache or try from a different device. If the problem persists, contact support@company.com."
+  },
+  {
+    "id": 58,
+    "question": "the password reset method is not working",
+    "answer": "If the password reset link is not working, wait for a few minutes and try again. You can also try using a different browser or incognito mode. If nothing works, IT support can help you reset it manually."
+  },
+  {
+    "id": 59,
+    "question": "suggest me something else",
+    "answer": "Here are some alternatives: try using a different browser, restart your device, or access the HR/IT portal from another network. If the issue continues, contact IT support for manual assistance."
+  },
+  {
+    "id": 60,
+    "question": "i am facing an issue",
+    "answer": "Please describe your issue. I can help with login problems, leave requests, payroll questions, IT support, or general HR queries."
+  },
+  {
+    "id": 61,
+    "question": "i am stuck",
+    "answer": "No worries! Tell me where you are stuck, and I will guide you with the steps or direct you to the right support team."
+  },
+  {
+    "id": 62,
+    "question": "i dont know what to do",
+    "answer": "It's okay! Tell me your problem, and I will try to guide you clearly. I can help with HR, IT, leave, salary, policies, and general queries."
+  },
+  {
+    "id": 63,
+    "question": "how do you work",
+    "answer": "I work by comparing your question with a list of FAQs stored in my system. Then I find the closest match and give you the best possible answer instantly."
+  },
+  {
+    "id": 64,
+    "question": "are you a human",
+    "answer": "No, I’m not human. I am an automated FAQ bot designed to help you get quick answers without waiting for human support."
+  },
+  {
+    "id": 65,
+    "question": "do you understand everything",
+    "answer": "I understand common questions related to HR, IT, salary, policies, and general office operations. For very complex issues, I may guide you to contact the support team."
+  },
+  {
+    "id": 66,
+    "question": "what should i do if i dont get any answer",
+    "answer": "If I can’t find a matching answer, try rephrasing your question or using simpler words. If the issue is urgent, contact HR or IT directly."
+  },
+  {
+    "id": 67,
+    "question": "my issue is not listed here",
+    "answer": "If your issue is not part of the FAQs, you can contact HR or IT support directly. I can help with general guidance but some cases need manual assistance."
+  },
+  {
+    "id": 68,
+    "question": "can you solve my problem",
+    "answer": "I can help solve common queries instantly. If your issue requires technical fixes or account access, I can guide you to the right support team."
+  },
+  {
+    "id": 69,
+    "question": "you are not helping",
+    "answer": "I'm sorry if I couldn't help with your exact issue. Try rephrasing your question, or I can guide you to the correct support contact for further assistance."
+  },
+  {
+    "id": 70,
+    "question": "help me with login issue",
+    "answer": "For login issues, try resetting your password using the 'Forgot Password' option. If that fails, check your internet connection or try a different browser. Contact IT support if the issue continues."
+  },
+    {
+    "id": 71,
+    "question": "how can you assist me",
+    "answer": "I can assist you by answering common questions related to HR, IT, leave, payroll, office rules, and general help topics. Just type your question and I’ll guide you."
+  },
+  {
+    "id": 72,
+    "question": "what will you do",
+    "answer": "I help you find correct answers from the company’s FAQ list. I save your time by providing instant support without waiting for HR or IT."
+  },
+  {
+    "id": 73,
+    "question": "help me set up the environment",
+    "answer": "To set up your working environment, install required software, connect to the company network, and log in to the employee portal. For technical setup, contact IT support."
+  },
+  {
+    "id": 74,
+    "question": "help me setup environment",
+    "answer": "Environment setup usually includes software installation, VPN setup, email configuration, and access permissions. For any issue, reach out to IT support."
+  },
+  {
+    "id": 75,
+    "question": "how do i request for holidays",
+    "answer": "You can request holidays by raising a leave application through the HR portal. Choose your leave dates, add a reason, and wait for manager approval."
+  },
+  {
+    "id": 76,
+    "question": "how many leaves are allowed",
+    "answer": "Leave count varies by company policy. Check the HR portal under the 'Leave Policy' section for your total annual leaves."
+  },
+  {
+    "id": 77,
+    "question": "how do i apply for holidays",
+    "answer": "To apply for holidays, log in to the HR portal, go to Leave Section, choose your dates, and submit a request for approval."
+  },
+  {
+    "id": 78,
+    "question": "how do i check my leave balance",
+    "answer": "You can check your leave balance in the HR portal under the 'Leave Balance' or 'My Leaves' section."
+  },
+  {
+    "id": 79,
+    "question": "help me with leave request",
+    "answer": "Sure! Open the HR portal, go to 'Leave Section', select your dates, and submit the leave application. Your manager will review it."
+  },
+  {
+    "id": 80,
+    "question": "where do i see holiday list",
+    "answer": "The holiday list is available on the HR portal under the 'Holiday Calendar' section."
+  },
+  {
+    "id": 81,
+    "question": "how do i contact manager",
+    "answer": "You can find your manager’s contact details in your employee profile on the HR portal or contact them via your official communication platform."
+  },
+  {
+    "id": 82,
+    "question": "how do i download payslip",
+    "answer": "Go to the HR portal, open the Payroll or Payslip section, select the month, and download your payslip in PDF format."
+  },
+  {
+    "id": 83,
+    "question": "where can i see my attendance",
+    "answer": "Your daily and monthly attendance details can be viewed under the 'Attendance' section of the HR portal."
+  },
+  {
+    "id": 84,
+    "question": "how do i update my personal details",
+    "answer": "You can update your phone number, address, and emergency contacts from the 'My Profile' section on the HR portal."
+  },
+  {
+    "id": 85,
+    "question": "how do i change my phone number",
+    "answer": "Go to your profile settings in the HR portal and edit the phone number field. Save the changes when done."
+  },
+  {
+    "id": 86,
+    "question": "how do i update my email address",
+    "answer": "Email updates usually require admin approval. Raise a request through HR support or contact IT for help."
+  },
+  {
+    "id": 87,
+    "question": "how do i raise support ticket",
+    "answer": "You can raise an IT or HR support ticket from the service desk portal by selecting issue category and submitting a description."
+  },
+  {
+    "id": 88,
+    "question": "whom should i contact for help",
+    "answer": "For HR queries, contact hr@company.com. For IT issues, email support@company.com. I can also guide you with basic issues."
+  },
+  {
+    "id": 89,
+    "question": "i need to talk to hr",
+    "answer": "You can reach HR through the HR portal or email them directly at hr@company.com for quick assistance."
+  },
+  {
+    "id": 90,
+    "question": "i need to talk to it support",
+    "answer": "For IT support, email support@company.com or raise a ticket through the IT service desk."
+  },
+    {
+    "id": 91,
+    "question": "how do i apply for work from home",
+    "answer": "Work-from-home requests can be submitted through the HR portal under the Work Arrangement section. Your manager must approve the request."
+  },
+  {
+    "id": 92,
+    "question": "how do i get my experience letter",
+    "answer": "Experience letters are provided by HR. Raise a request through the HR portal or email hr@company.com."
+  },
+  {
+    "id": 93,
+    "question": "how do i get my joining letter",
+    "answer": "You can download your joining letter from the HR portal under the Documents or Onboarding section."
+  },
+  {
+    "id": 94,
+    "question": "what should i do on my first day",
+    "answer": "On your first day, report to HR for onboarding, collect your ID card, set up your system, and meet your reporting manager."
+  },
+  {
+    "id": 95,
+    "question": "my salary is delayed",
+    "answer": "If your salary is delayed, please wait for official communication or contact payroll@company.com for clarification."
+  },
+  {
+    "id": 96,
+    "question": "how do i regularize my attendance",
+    "answer": "Attendance regularization can be done through the Attendance section in the HR portal by selecting the date and submitting a reason."
+  },
+  {
+    "id": 97,
+    "question": "how do i update emergency contact",
+    "answer": "You can update your emergency contact details in your profile section on the HR portal."
+  },
+  {
+    "id": 98,
+    "question": "where do i upload documents",
+    "answer": "You can upload required documents in the HR portal under the Documents Upload or Profile Verification section."
+  },
+  {
+    "id": 99,
+    "question": "how do i connect to vpn",
+    "answer": "Install the company VPN client, use your employee login credentials, and follow the setup guide provided in the IT help section."
+  },
+  {
+    "id": 100,
+    "question": "my vpn is not connecting",
+    "answer": "Check your internet connection, restart the VPN client, or try reconnecting after a few minutes. If the issue continues, contact IT support."
+  }
+
+
 ]
